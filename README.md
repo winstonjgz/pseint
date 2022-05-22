@@ -1,0 +1,2 @@
+# pseint
+Pseudocodigo - ejercicios
